@@ -1,0 +1,500 @@
+Name: Nicolas Surname: Corralone
+Sex: M
+ID: 10041 Password: 14002
+Is teacher?: 0
+Points: 30
+Name: Felipe Surname: Asturia
+Sex: M
+ID: 28467 Password: 76489
+Is teacher?: 0
+Points: 0
+Name: Julieta Surname: Milesi
+Sex: F
+ID: 16334 Password: 43365
+Is teacher?: 0
+Points: 0
+Name: Laura Surname: Martinez
+Sex: F
+ID: 36500 Password: 563
+Is teacher?: 0
+Points: 0
+Name: Andres Surname: Lopez
+Sex: M
+ID: 29169 Password: 96191
+Is teacher?: 1
+Points: 0
+Name: Sofia Surname: Hernandez
+Sex: F
+ID: 25724 Password: 42756
+Is teacher?: 0
+Points: 0
+Name: Diego Surname: Torres
+Sex: M
+ID: 21478 Password: 87410
+Is teacher?: 0
+Points: 0
+Name: Ana Surname: Gonzalez
+Sex: F
+ID: 39358 Password: 85391
+Is teacher?: 1
+Points: 0
+Name: Javier Surname: Ramirez
+Sex: M
+ID: 36962 Password: 26965
+Is teacher?: 0
+Points: 0
+Name: Valeria Surname: Diaz
+Sex: F
+ID: 34464 Password: 46447
+Is teacher?: 0
+Points: 0
+Name: Martin Surname: Sanchez
+Sex: M
+ID: 15705 Password: 50756
+Is teacher?: 1
+Points: 0
+Name: Paula Surname: Torres
+Sex: F
+ID: 38145 Password: 54188
+Is teacher?: 0
+Points: 0
+Name: Nicolas Surname: Gomez
+Sex: M
+ID: 33281 Password: 18234
+Is teacher?: 0
+Points: 0
+Name: Gabriela Surname: Silva
+Sex: F
+ID: 26827 Password: 72869
+Is teacher?: 1
+Points: 0
+Name: Sergio Surname: Vargas
+Sex: M
+ID: 19961 Password: 16992
+Is teacher?: 0
+Points: 0
+Name: Brenda Surname: Castro
+Sex: F
+ID: 10491 Password: 19402
+Is teacher?: 0
+Points: 0
+Name: Eduardo Surname: Mendoza
+Sex: M
+ID: 12995 Password: 59926
+Is teacher?: 1
+Points: 0
+Name: Carolina Surname: Flores
+Sex: F
+ID: 21942 Password: 24914
+Is teacher?: 0
+Points: 0
+Name: Luis Surname: Castillo
+Sex: M
+ID: 14827 Password: 72848
+Is teacher?: 0
+Points: 0
+Name: Isabel Surname: Mora
+Sex: F
+ID: 15436 Password: 63457
+Is teacher?: 1
+Points: 0
+Name: Oscar Surname: Reyes
+Sex: M
+ID: 42391 Password: 19325
+Is teacher?: 0
+Points: 0
+Name: Lucia Surname: Ortega
+Sex: F
+ID: 24604 Password: 40646
+Is teacher?: 0
+Points: 0
+Name: Rafael Surname: Jimenez
+Sex: M
+ID: 13902 Password: 20933
+Is teacher?: 1
+Points: 0
+Name: Carmen Surname: Torres
+Sex: F
+ID: 10153 Password: 35104
+Is teacher?: 0
+Points: 0
+Name: Alberto Surname: Diaz
+Sex: M
+ID: 10292 Password: 29203
+Is teacher?: 0
+Points: 0
+Name: Natalia Surname: Ruiz
+Sex: F
+ID: 22382 Password: 28324
+Is teacher?: 1
+Points: 0
+Name: Juan Surname: Garcia
+Sex: M
+ID: 27421 Password: 12473
+Is teacher?: 0
+Points: 0
+Name: Laura Surname: Rojas
+Sex: F
+ID: 28716 Password: 61788
+Is teacher?: 0
+Points: 0
+Name: Roberto Surname: Soto
+Sex: M
+ID: 29718 Password: 81790
+Is teacher?: 1
+Points: 0
+Name: Mariana Surname: Vargas
+Sex: F
+ID: 29895 Password: 59897
+Is teacher?: 0
+Points: 0
+Name: Alejandro Surname: Perez
+Sex: M
+ID: 15447 Password: 74458
+Is teacher?: 0
+Points: 0
+Name: Diana Surname: Herrera
+Sex: F
+ID: 31726 Password: 62719
+Is teacher?: 1
+Points: 0
+Name: Fernando Surname: Castro
+Sex: M
+ID: 24771 Password: 17743
+Is teacher?: 0
+Points: 0
+Name: Victoria Surname: Ramirez
+Sex: F
+ID: 21538 Password: 83510
+Is teacher?: 0
+Points: 0
+Name: Guillermo Surname: Gomez
+Sex: M
+ID: 11869 Password: 96810
+Is teacher?: 1
+Points: 0
+Name: Paola Surname: Torres
+Sex: F
+ID: 29912 Password: 21994
+Is teacher?: 0
+Points: 0
+Name: Ignacio Surname: Castillo
+Sex: M
+ID: 35667 Password: 76650
+Is teacher?: 0
+Points: 0
+Name: Adriana Surname: Mora
+Sex: F
+ID: 36299 Password: 99262
+Is teacher?: 1
+Points: 0
+Name: Mateo Surname: Reyes
+Sex: M
+ID: 27035 Password: 53077
+Is teacher?: 0
+Points: 0
+Name: Camila Surname: Ortega
+Sex: F
+ID: 19894 Password: 49895
+Is teacher?: 0
+Points: 0
+Name: Daniel Surname: Jimenez
+Sex: M
+ID: 38703 Password: 30786
+Is teacher?: 1
+Points: 0
+Name: Marisol Surname: Torres
+Sex: F
+ID: 33811 Password: 11834
+Is teacher?: 0
+Points: 0
+Name: Sergio Surname: Diaz
+Sex: M
+ID: 41322 Password: 22316
+Is teacher?: 0
+Points: 0
+Name: Valentina Surname: Ruiz
+Sex: F
+ID: 40333 Password: 33307
+Is teacher?: 1
+Points: 0
+Name: Martin Surname: Garcia
+Sex: M
+ID: 27673 Password: 37675
+Is teacher?: 0
+Points: 0
+Name: Carolina Surname: Rojas
+Sex: F
+ID: 14664 Password: 46645
+Is teacher?: 0
+Points: 0
+Name: Julio Surname: Soto
+Sex: M
+ID: 25141 Password: 14153
+Is teacher?: 1
+Points: 0
+Name: Sofia Surname: Vargas
+Sex: F
+ID: 17711 Password: 11772
+Is teacher?: 0
+Points: 0
+Name: Ricardo Surname: Perez
+Sex: M
+ID: 38253 Password: 35286
+Is teacher?: 0
+Points: 0
+Name: Elena Surname: Herrera
+Sex: F
+ID: 16868 Password: 86869
+Is teacher?: 1
+Points: 0
+Name: Gustavo Surname: Castro
+Sex: M
+ID: 35547 Password: 74550
+Is teacher?: 0
+Points: 0
+Name: Clara Surname: Ramirez
+Sex: F
+ID: 37644 Password: 44677
+Is teacher?: 0
+Points: 0
+Name: Juan Surname: Gomez
+Sex: M
+ID: 42662 Password: 26626
+Is teacher?: 1
+Points: 0
+Name: Vanessa Surname: Torres
+Sex: F
+ID: 42757 Password: 75721
+Is teacher?: 0
+Points: 0
+Name: Francisco Surname: Castillo
+Sex: M
+ID: 30037 Password: 73000
+Is teacher?: 0
+Points: 0
+Name: Laura Surname: Mora
+Sex: F
+ID: 22859 Password: 95821
+Is teacher?: 0
+Points: 0
+Name: Eduardo Surname: Reyes
+Sex: M
+ID: 18723 Password: 32784
+Is teacher?: 1
+Points: 0
+Name: Paola Surname: Ortega
+Sex: F
+ID: 19741 Password: 14792
+Is teacher?: 0
+Points: 0
+Name: Andres Surname: Jimenez
+Sex: M
+ID: 37529 Password: 92572
+Is teacher?: 0
+Points: 0
+Name: Carolina Surname: Torres
+Sex: F
+ID: 10778 Password: 87709
+Is teacher?: 1
+Points: 0
+Name: Victor Surname: Diaz
+Sex: M
+ID: 22316 Password: 61328
+Is teacher?: 0
+Points: 0
+Name: Ana Surname: Ruiz
+Sex: F
+ID: 13035 Password: 53036
+Is teacher?: 0
+Points: 0
+Name: Miguel Surname: Garcia
+Sex: M
+ID: 32190 Password: 9123
+Is teacher?: 1
+Points: 0
+Name: Marta Surname: Rojas
+Sex: F
+ID: 11842 Password: 24813
+Is teacher?: 0
+Points: 0
+Name: Oscar Surname: Soto
+Sex: M
+ID: 10288 Password: 88209
+Is teacher?: 0
+Points: 0
+Name: Antonia Surname: Vargas
+Sex: F
+ID: 40106 Password: 60100
+Is teacher?: 1
+Points: 0
+Name: Luis Surname: Perez
+Sex: M
+ID: 19040 Password: 4091
+Is teacher?: 0
+Points: 0
+Name: Andrea Surname: Herrera
+Sex: F
+ID: 18942 Password: 24983
+Is teacher?: 0
+Points: 0
+Name: Javier Surname: Castro
+Sex: M
+ID: 29264 Password: 46296
+Is teacher?: 1
+Points: 0
+Name: Sofia Surname: Ramirez
+Sex: F
+ID: 32648 Password: 84621
+Is teacher?: 0
+Points: 0
+Name: Gabriel Surname: Gomez
+Sex: M
+ID: 37446 Password: 64479
+Is teacher?: 0
+Points: 0
+Name: Isabel Surname: Torres
+Sex: F
+ID: 33805 Password: 50838
+Is teacher?: 1
+Points: 0
+Name: Mario Surname: Castillo
+Sex: M
+ID: 25890 Password: 9852
+Is teacher?: 0
+Points: 0
+Name: Elena Surname: Mora
+Sex: F
+ID: 16729 Password: 92760
+Is teacher?: 0
+Points: 0
+Name: Roberto Surname: Reyes
+Sex: M
+ID: 34370 Password: 7343
+Is teacher?: 1
+Points: 0
+Name: Laura Surname: Ortega
+Sex: F
+ID: 25350 Password: 5352
+Is teacher?: 0
+Points: 0
+Name: Juan Surname: Jimenez
+Sex: M
+ID: 25006 Password: 60058
+Is teacher?: 0
+Points: 0
+Name: Veronica Surname: Torres
+Sex: F
+ID: 41101 Password: 10115
+Is teacher?: 1
+Points: 0
+Name: Carlos Surname: Diaz
+Sex: M
+ID: 34393 Password: 39346
+Is teacher?: 0
+Points: 0
+Name: Valeria Surname: Ruiz
+Sex: F
+ID: 13548 Password: 84539
+Is teacher?: 0
+Points: 0
+Name: Sergio Surname: Garcia
+Sex: M
+ID: 29629 Password: 92691
+Is teacher?: 1
+Points: 0
+Name: Paula Surname: Rojas
+Sex: F
+ID: 22623 Password: 32625
+Is teacher?: 0
+Points: 0
+Name: Ignacio Surname: Soto
+Sex: M
+ID: 34084 Password: 48047
+Is teacher?: 0
+Points: 0
+Name: Andrea Surname: Vargas
+Sex: F
+ID: 29954 Password: 45996
+Is teacher?: 1
+Points: 0
+Name: Alejandro Surname: Perez
+Sex: M
+ID: 28756 Password: 65788
+Is teacher?: 0
+Points: 0
+Name: Camila Surname: Herrera
+Sex: F
+ID: 21840 Password: 4812
+Is teacher?: 0
+Points: 0
+Name: Daniel Surname: Castro
+Sex: M
+ID: 14966 Password: 66947
+Is teacher?: 1
+Points: 0
+Name: Mariana Surname: Ramirez
+Sex: F
+ID: 17376 Password: 67377
+Is teacher?: 0
+Points: 0
+Name: Luis Surname: Gomez
+Sex: M
+ID: 23931 Password: 13933
+Is teacher?: 0
+Points: 0
+Name: Natalia Surname: Torres
+Sex: F
+ID: 36308 Password: 80361
+Is teacher?: 1
+Points: 0
+Name: Oscar Surname: Castillo
+Sex: M
+ID: 26944 Password: 44966
+Is teacher?: 0
+Points: 0
+Name: Clara Surname: Mora
+Sex: F
+ID: 42439 Password: 93423
+Is teacher?: 0
+Points: 0
+Name: Miguel Surname: Reyes
+Sex: M
+ID: 34626 Password: 62649
+Is teacher?: 1
+Points: 0
+Name: Antonia Surname: Ortega
+Sex: F
+ID: 21323 Password: 32315
+Is teacher?: 0
+Points: 0
+Name: Victor Surname: Jimenez
+Sex: M
+ID: 15537 Password: 73558
+Is teacher?: 0
+Points: 0
+Name: Paola Surname: Torres
+Sex: F
+ID: 31538 Password: 83511
+Is teacher?: 1
+Points: 0
+Name: Javier Surname: Diaz
+Sex: M
+ID: 26118 Password: 81160
+Is teacher?: 0
+Points: 0
+Name: Laura Surname: Ruiz
+Sex: F
+ID: 12082 Password: 28023
+Is teacher?: 0
+Points: 0
+Name: Carlos Surname: Garcia
+Sex: M
+ID: 32929 Password: 92922
+Is teacher?: 1
+Points: 0
+Name: Maria Surname: Rojas
+Sex: F
+ID: 26541 Password: 14563
+Is teacher?: 0
+Points: 0
